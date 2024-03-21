@@ -6,3 +6,5 @@
 4. I study on Netology and lern Python
 
 ![my photo](20230925_115008.jpg)
+
+theme: jekyll-theme-time-machine
