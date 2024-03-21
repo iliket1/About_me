@@ -5,4 +5,4 @@
 3. I work on LNG-plant
 4. I study on Netology and lern Python
 
-[my photo](20230925_115008.jpg)
+![my photo](20230925_115008.jpg)
